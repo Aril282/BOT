@@ -133,9 +133,9 @@ Donasi supaya bot terus update & Aktif`
 
 exports.iklan = (botName, ownerNumbers, ownerName) => {
 return`╭──「🇸 🇪 🇼 🇦  🇧 🇴 🇹 」
-│❏  1 MINGGU : IDR 4.000 (4K)
-│❏  1 BULAN : IDR 6.000 (6K)
-│❏   PERMANEN : IDR10.000 (10K)
+│❏  1 MINGGU : IDR 5.000 (5K)
+│❏  1 BULAN : IDR 10.000 (10K)
+│❏   PERMANEN : IDR15.000 (15K)
 ╰────
 ╭─ [ KELEBIHAN BOT ]
 │❏  ＯＮ 24 ＪＡＭ
@@ -148,10 +148,10 @@ return`╭──「🇸 🇪 🇼 🇦  🇧 🇴 🇹 」
 │❏  DAN RATUSAN FITUR LAINYA
 ╰────
 ╭─[ *MINAT CHAT* ]
-│❏  🪀 wa.me/6289636634511?text=sewa+bot
+│❏  🪀 wa.me/62881024358619?text=sewa+bot
 ╰────
 ╭─[ *TES BOT? MASUK GRUB DI BAWAH* ]
-│❏https://chat.whatsapp.com/Hnb8UOsuN4t5hSEMNTUdft
+│❏https://chat.whatsapp.com/HYHH8iJynqE7LIaH8ejJH3
 ╰────
 ╭─[ *PAYMENT* ]
 │❏  GOPAY
