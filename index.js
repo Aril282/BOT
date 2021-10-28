@@ -9,7 +9,7 @@ CFonts.say('BUMERBOT WHATSAPP', {
   align: 'center',
   gradient: ['red', 'magenta']
 })
-CFonts.say(`Welcome Riyan BOTZ`, {
+CFonts.say(`Welcome Aril BOTZ`, {
   font: 'console',
   align: 'center',
   gradient: ['red', 'magenta']
